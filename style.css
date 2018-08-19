@@ -1,0 +1,81 @@
+/** BODY **/
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: whitesmoke;
+}
+/** FOOTER **/
+footer {
+    bottom: 0px;
+    padding: 5px;
+    height: 100px;
+    color: #fff!important;
+    background-color: #009688!important;
+}
+.card-panel {
+    margin-bottom: 0!important;
+}
+
+h5{
+    margin: 0!important;
+    color: #757575!important;
+    font-weight: 400;
+}
+
+b{
+    font-weight: bold;
+    color: #1b6d65!important;
+}
+/** PROFILE IMAGE **/
+.profile {
+    margin: auto;
+    width: 80%;
+    border: 3px solid #009688!important;
+    padding: 0px;
+}
+/** MATERIAL ICONS **/
+.material-icons {
+    color: #009688!important;
+}
+/** SVG IMAGE **/
+.fill {
+    fill:#009688!important;
+}
+/** TABLE **/
+.table{
+    width: 25%;
+    border-collapse: collapse;
+}
+
+.small-table{
+    width: 10%;
+    border-collapse: collapse;
+}
+
+.medium-table{
+    width: 30%;
+    border-collapse: collapse;
+}
+
+
+.large-table{
+    width: 40%;
+    border-collapse: collapse;
+}
+
+.table_data{
+    padding: 8px 3px;
+    display: table-cell;
+    text-align: left;
+    vertical-align: middle;
+    border-radius: 2px; 
+}
+.custom-padding {
+    padding: 8px 3px;
+}    
+/** DIV **/
+div.main {
+    /*padding: 10px;*/
+}
+div.experience_block {
+    padding:15px; 
+}
